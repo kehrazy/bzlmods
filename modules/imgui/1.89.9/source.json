@@ -1,0 +1,11 @@
+{
+  "integrity": "sha256-Gswnp3i3HYWYeBIaP3sofNgcKdcgiT0rK/dEVb+dUtY=",
+  "patch_strip": 0,
+  "patches": {
+    "add_build_file.patch": "sha256-kKT/qKNIkgSusxP0pwBRFOub/UW0EeGst3AL5jeMFdU=",
+    "module_dot_bazel.patch": "sha256-BkhggiTZrNxcxcp1ngviODdS7DK0rjmnvnlgmyWo5dk="
+  },
+  "name": "imgui",
+  "strip_prefix": "imgui-1.89.9",
+  "url": "https://github.com/ocornut/imgui/archive/refs/tags/v1.89.9.tar.gz"
+}
